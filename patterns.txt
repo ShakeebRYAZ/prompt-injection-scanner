@@ -1,0 +1,11 @@
+error
+warning
+failed
+unauthorized
+denied
+Rejected
+time out
+expired
+ignore (all )?(previous|prior) instructions
+you are now (DAN|unrestricted)
+reveal (your |the )?system prompt
